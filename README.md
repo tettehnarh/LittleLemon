@@ -5,7 +5,7 @@ Meta Backend Developer Capstone Project
 
 # Project Structure
 
-The project consists of two apps: api and restaurant. The api app serves the project's API endpoints, while the restaurant app serves its frontend.
+The project consists of two apps api and restaurant. The api app would serve the project's API endpoints, while the restaurant app would serve its frontend.
 <br> <br>
 
 # Installation
@@ -56,7 +56,7 @@ python manage.py migrate
 
 # API Endpoints
 
-In Insomnia, add under Bearer tab. Under Prefix enter "Token"
+In Insomnia, add token generated under the Bearer tab. Under Prefix enter "Token"
 <br>
 
 ### Endpoints for `api` app
