@@ -10,4 +10,5 @@ urlpatterns = [
     path('menu/<int:pk>', views.SingleMenuItemView.as_view()),
     path('booking/', views.BookingView.as_view()),
     path('booking/<int:pk>', views.SingleBookingView.as_view()),
+    path('message/', views.msg),
 ]
